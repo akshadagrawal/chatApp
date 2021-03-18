@@ -1,2 +1,2 @@
 # chatApp
-Demo How to use sockets to create chat app
+A very basic chat app using react-chat engine(can be made in a couple of minutes)
